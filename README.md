@@ -2,6 +2,7 @@
 
 
 🔭 I’m currently working on a web application that employs an AI algorithm.
+
 🌱 I’m currently learning about React, TypeScript and Django.
 
 Particularly interested in 
